@@ -1,5 +1,5 @@
 ## The very new project about caching, very difficult for me to understand why this was not taught in the course
-## A function that can cache its inverse using the examples provided by professor Peng
+## A function that receives a matrix and returns its inverse using the examples provided by professor Peng
 
 # makeCacheMatrix <- function(x = matrix()) {
 #   inv <- NULL
@@ -17,7 +17,7 @@
 # }
 # 
 # 
-#  # This one calculates the inverse of the special "matrix" created befire
+#  # This one calculates the inverse of the special "matrix" created before
 #  # returns the inverse from the cache
 # 
 # cacheSolve <- function(x, ...) {
